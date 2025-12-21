@@ -88,7 +88,7 @@ export const PROJECTS: Project[] = [
     tags: ["React", "Node.js", "MongoDB", "MERN"],
      image: "/op.jpg",
     githubUrl: "https://github.com/Phionephione/WeebVibe",
-    liveUrl: "https://weebvibe.onrender.com",
+    liveUrl: "https://weebvibe-shtg.onrender.com/",
   },
   {
   title: "Invisibility Cloak App",
